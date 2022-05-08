@@ -30,9 +30,9 @@ We can also see that the third week of February has the highest total fares of e
 
 ## Summary
 
-This analysis shows that even though Urban cities provide the higher revenues to PyBer even though have the lowest average fare per ride and driver. We can say that the rural cities have higher costs because there are fewer drivers and rides in those places. The time and distance of the ride can be elements related to the increase in fares in rural areas.
+This analysis shows that Urban cities provide the higher revenues to PyBer even though have the lowest average fare per ride and driver. We can say that the rural cities have higher costs because there are fewer drivers and rides in those places. The time and distance of the ride can be elements related to the increase in fares in rural areas.
 
- ## Recommendations:
+ ### Recommendations:
 - We need to know more about the necessities of the rural population areas to increase ride-sharing and drivers in that city type.  
 - Urban areas have the best performance for the company. That is why it's important to keep investing in this city type. For example and as a strategy, we can offer incentives to keep loyal customers using PyBer.
 - Our analysis has some limitations, the suggestion is to extend the analysis. For instance, this study requires more data to analyze, such as distance traveled, demographic data of the population, and weather conditions of the city.
